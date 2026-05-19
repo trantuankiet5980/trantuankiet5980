@@ -1,79 +1,153 @@
-# 👋 Hello, I'm Tran Tuan Kiet
+<div align="center">
 
-🎓 I am a Software Engineering student at Industrial University of Ho Chi Minh City (IUH), skilled in Full Stack Development using Java, JavaScript, ReactJS, and NodeJS.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tran%20Tuan%20Kiet&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IUH%20Student&descAlignY=58&descSize=18" width="100%"/>
 
-🚀 Beyond my technical background, I have hands-on experience in business analysis and UI/UX design, combining both technical and analytical thinking to deliver user-focused solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=🚀+Full+Stack+Developer;☕+Java+%26+Spring+Boot;⚛️+React+%26+Node.js;🎨+UI%2FUX+%26+Business+Analyst;🌏+Ho+Chi+Minh+City%2C+VN)](https://git.io/typing-svg)
 
-💬 I am eager to leverage my skills to contribute to innovative, user-centric software projects and continue growing as a versatile full-stack developer.
-
----
-
-## 📌 More information
-
-📧 Contact me at: [trantuankiet5980@gmail.com](mailto:trantuankiet5980@gmail.com)  
-📍 Go Vap, Ho Chi Minh City  
-🌐 Portfolio: [trantuankiet5980.portfolio](https://trantuankiet5980.github.io/portfolio/)  
-🔗 GitHub: [github.com/trantuankiet5980](https://github.com/trantuankiet5980)
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kiet.tran309) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trantuankiet309/)
+</div>
 
 ---
 
-# 💻 Tech Stack:
+## 👋 About Me
+
 <table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://reactnative.dev/img/header_logo.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" /></td>
-  </tr>
+<tr>
+<td valign="top" width="60%">
+
+- 🎓 Software Engineering student at **IUH** (Industrial University of Ho Chi Minh City)
+- 💻 Specializing in Full Stack with **Java, Spring Boot, React, Node.js**
+- 🚀 Hands-on in **Business Analysis** & **UI/UX Design**
+- 💡 I love building things that are both functional and beautiful
+- 📫 Let's build something great together!
+
+</td>
+<td valign="top" width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</td>
+</tr>
 </table>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trantuankiet5980&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trantuankiet5980&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📌 More Information
+
+📧 [trantuankiet5980@gmail.com](mailto:trantuankiet5980@gmail.com) <br>
+📍 Go Vap, Ho Chi Minh City <br>
+🌐 [Portfolio](https://trantuankiet5980.github.io/portfolio/) <br>
+🔗 [github.com/trantuankiet5980](https://github.com/trantuankiet5980)
 
 ---
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=trantuankiet5980&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap,cs,cpp,c,python&theme=dark" />
+
+**Database & DevOps**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws,gcp,linux,nginx,jenkins&theme=dark" />
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio,firebase,unity&theme=dark" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=trantuankiet5980&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=trantuankiet5980&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+
+</td>
+<td>
+
+![Streak](https://streak-stats.demolab.com?user=trantuankiet5980&theme=tokyonight-duo&hide_border=true)
+
+</td>
+<td>
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trantuankiet5980&theme=tokyonight&layout=compact&langs_count=8&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trantuankiet5980&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=trantuankiet5980&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=4" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trantuankiet5980/trantuankiet5980/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trantuankiet5980/trantuankiet5980/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/trantuankiet5980/trantuankiet5980/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+</div>
+
+> ⚙️ Để snake animation hoạt động, tạo file `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: trantuankiet5980
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trantuankiet5980@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trantuankiet309/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kiet.tran309)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://trantuankiet5980.github.io/portfolio/)
+
+[![](https://visitcount.itsvg.in/api?id=trantuankiet5980&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
