@@ -40,7 +40,7 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div align="center">  
 
 **Languages & Frameworks**
 <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap,cs,cpp,c,python&theme=dark" />
