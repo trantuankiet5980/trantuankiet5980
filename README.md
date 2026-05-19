@@ -63,7 +63,7 @@
 <tr>
 <td>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=trantuankiet5980&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+![Stats](https://github-readme-stats-henna-six-57.vercel.app/api?username=trantuankiet5980&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
 
 </td>
 <td>
@@ -73,7 +73,7 @@
 </td>
 <td>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trantuankiet5980&theme=tokyonight&layout=compact&langs_count=8&hide_border=true)
+![Languages](https://github-readme-stats-henna-six-57.vercel.app/api/top-langs/?username=trantuankiet5980&theme=tokyonight&layout=compact&langs_count=8&hide_border=true)
 
 </td>
 </tr>
