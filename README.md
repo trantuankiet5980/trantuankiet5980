@@ -32,7 +32,7 @@
 ## 📌 More Information
 
 📧 [trantuankiet5980@gmail.com](mailto:trantuankiet5980@gmail.com) <br>
-📍 Go Vap, Ho Chi Minh City <br>
+📍 Thu Duc, Ho Chi Minh City <br>
 🌐 [Portfolio](https://trantuankiet5980.github.io/portfolio/) <br>
 🔗 [github.com/trantuankiet5980](https://github.com/trantuankiet5980)
 
